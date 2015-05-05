@@ -2,7 +2,7 @@ __author__ = 'jimclifford'
 import urllib.request
 from bs4 import BeautifulSoup
 
-# Stefan Müller <mlrst@web.de> converted the script to Python 3 during my RCC workshop. Here are his notes notes:
+# Stefan Müller converted the script to Python 3 during my RCC workshop. Here are his notes notes:
 # 1. This script requires matplotlib, which requires some packages
 #    not necessarily included already. These packages can be installed by:
 #    c:\python34\scripts>pip install numpy python-dateutil pytz pyparsing six --force-reinstall --upgrade
